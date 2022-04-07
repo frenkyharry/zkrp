@@ -18,10 +18,10 @@
 package bn
 
 import (
-    "crypto/sha256"
-    "math/big"
+	"crypto/sha256"
+	"math/big"
 
-    "github.com/ing-bank/zkrp/util/byteconversion"
+	"github.com/robotboy/zkrp/util/byteconversion"
 )
 
 func CalculateHash(b1 *big.Int, b2 *big.Int) (*big.Int, error) {

@@ -18,14 +18,14 @@
 package bulletproofs
 
 import (
-    "strconv"
-    "crypto/sha256"
-    "errors"
-    "math/big"
+	"crypto/sha256"
+	"errors"
+	"math/big"
+	"strconv"
 
-    "github.com/ing-bank/zkrp/crypto/p256"
-    "github.com/ing-bank/zkrp/util/bn"
-    "github.com/ing-bank/zkrp/util/byteconversion"
+	"github.com/robotboy/zkrp/crypto/p256"
+	"github.com/robotboy/zkrp/util/bn"
+	"github.com/robotboy/zkrp/util/byteconversion"
 )
 
 var SEEDU = "BulletproofsDoesNotNeedTrustedSetupU"

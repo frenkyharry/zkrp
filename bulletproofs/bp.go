@@ -18,16 +18,16 @@
 package bulletproofs
 
 import (
-    "strconv"
-    "crypto/rand"
-    "errors"
-    "fmt"
-    "math"
-    "math/big"
+	"crypto/rand"
+	"errors"
+	"fmt"
+	"math"
+	"math/big"
+	"strconv"
 
-    "github.com/ing-bank/zkrp/crypto/p256"
-    . "github.com/ing-bank/zkrp/util"
-    "github.com/ing-bank/zkrp/util/bn"
+	"github.com/robotboy/zkrp/crypto/p256"
+	. "github.com/robotboy/zkrp/util"
+	"github.com/robotboy/zkrp/util/bn"
 )
 
 /*

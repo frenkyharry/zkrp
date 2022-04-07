@@ -25,18 +25,18 @@ Asiacrypt 2008
 package ccs08
 
 import (
-    "bytes"
-    "crypto/rand"
-    "errors"
-    "math"
-    "math/big"
-    "strconv"
+	"bytes"
+	"crypto/rand"
+	"errors"
+	"math"
+	"math/big"
+	"strconv"
 
-    "github.com/ing-bank/zkrp/crypto/bbsignatures"
-    "github.com/ing-bank/zkrp/crypto/bn256"
-    . "github.com/ing-bank/zkrp/util"
-    "github.com/ing-bank/zkrp/util/bn"
-    "github.com/ing-bank/zkrp/util/intconversion"
+	"github.com/robotboy/zkrp/crypto/bbsignatures"
+	"github.com/robotboy/zkrp/crypto/bn256"
+	. "github.com/robotboy/zkrp/util"
+	"github.com/robotboy/zkrp/util/bn"
+	"github.com/robotboy/zkrp/util/intconversion"
 )
 
 /*

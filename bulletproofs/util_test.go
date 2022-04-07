@@ -18,11 +18,11 @@
 package bulletproofs
 
 import (
-    "math"
-    "math/big"
-    "testing"
+	"math"
+	"math/big"
+	"testing"
 
-    "github.com/ing-bank/zkrp/crypto/p256"
+	"github.com/robotboy/zkrp/crypto/p256"
 )
 
 /*

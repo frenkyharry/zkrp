@@ -18,10 +18,10 @@
 package bulletproofs
 
 import (
-    "math/big"
-    "testing"
+	"math/big"
+	"testing"
 
-    "github.com/ing-bank/zkrp/util/intconversion"
+	"github.com/robotboy/zkrp/util/intconversion"
 )
 
 /*

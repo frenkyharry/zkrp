@@ -18,14 +18,14 @@
 package bulletproofs
 
 import (
-    "bytes"
-    "crypto/sha256"
-    "errors"
-    "math/big"
+	"bytes"
+	"crypto/sha256"
+	"errors"
+	"math/big"
 
-    "github.com/ing-bank/zkrp/crypto/p256"
-    "github.com/ing-bank/zkrp/util/bn"
-    "github.com/ing-bank/zkrp/util/intconversion"
+	"github.com/robotboy/zkrp/crypto/p256"
+	"github.com/robotboy/zkrp/util/bn"
+	"github.com/robotboy/zkrp/util/intconversion"
 )
 
 /*

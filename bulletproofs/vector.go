@@ -18,11 +18,11 @@
 package bulletproofs
 
 import (
-    "errors"
-    "math/big"
+	"errors"
+	"math/big"
 
-    "github.com/ing-bank/zkrp/crypto/p256"
-    "github.com/ing-bank/zkrp/util/bn"
+	"github.com/robotboy/zkrp/crypto/p256"
+	"github.com/robotboy/zkrp/util/bn"
 )
 
 /*

@@ -18,14 +18,14 @@
 package ccs08
 
 import (
-    "crypto/rand"
-    "math/big"
-    "testing"
+	"crypto/rand"
+	"math/big"
+	"testing"
 
-    "github.com/ing-bank/zkrp/crypto/bn256"
-    . "github.com/ing-bank/zkrp/util"
-    "github.com/ing-bank/zkrp/util/bn"
-    "github.com/ing-bank/zkrp/util/intconversion"
+	"github.com/robotboy/zkrp/crypto/bn256"
+	. "github.com/robotboy/zkrp/util"
+	"github.com/robotboy/zkrp/util/bn"
+	"github.com/robotboy/zkrp/util/intconversion"
 )
 
 /*

@@ -18,13 +18,13 @@
 package util
 
 import (
-    "crypto/sha256"
-    "math/big"
+	"crypto/sha256"
+	"math/big"
 
-    "github.com/ing-bank/zkrp/crypto/bn256"
-    "github.com/ing-bank/zkrp/crypto/p256"
-    "github.com/ing-bank/zkrp/util/bn"
-    "github.com/ing-bank/zkrp/util/byteconversion"
+	"github.com/robotboy/zkrp/crypto/bn256"
+	"github.com/robotboy/zkrp/crypto/p256"
+	"github.com/robotboy/zkrp/util/bn"
+	"github.com/robotboy/zkrp/util/byteconversion"
 )
 
 // Constants that are going to be used frequently, then we just need to compute them once.

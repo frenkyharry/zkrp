@@ -25,12 +25,12 @@ Eurocrypt 2004
 */
 
 import (
-    "crypto/rand"
-    "errors"
-    "math/big"
+	"crypto/rand"
+	"errors"
+	"math/big"
 
-    "github.com/ing-bank/zkrp/crypto/bn256"
-    "github.com/ing-bank/zkrp/util/bn"
+	"github.com/robotboy/zkrp/crypto/bn256"
+	"github.com/robotboy/zkrp/util/bn"
 )
 
 type Keypair struct {

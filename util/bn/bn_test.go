@@ -18,10 +18,10 @@
 package bn
 
 import (
-    "github.com/ing-bank/zkrp/util/intconversion"
-    // . "github.com/ing-bank/zkrp/util"
-    "math/big"
-    "testing"
+	"github.com/robotboy/zkrp/util/intconversion"
+	// . "github.com/robotboy/zkrp/util"
+	"math/big"
+	"testing"
 )
 
 func TestCalculateHash(t *testing.T) {
