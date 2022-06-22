@@ -18,7 +18,7 @@
 package bn256
 
 import (
-	"github.com/robotboy/zkrp/util/intconversion"
+	"github.com/frenkyharry/zkrp/util/intconversion"
 )
 
 // u is the BN parameter that determines the prime: 1868033³.

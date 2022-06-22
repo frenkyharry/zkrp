@@ -1,4 +1,4 @@
-[![GoDoc](https://godoc.org/github.com/robotboy/zkrp?status.svg)](https://godoc.org/github.com/robotboy/zkrp)
+[![GoDoc](https://godoc.org/github.com/frenkyharry/zkrp?status.svg)](https://godoc.org/github.com/frenkyharry/zkrp)
 
 # Zero Knowledge Proofs
  

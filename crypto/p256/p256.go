@@ -27,8 +27,8 @@ import (
 	"math/big"
 	"strconv"
 
-	"github.com/robotboy/zkrp/util/bn"
-	"github.com/robotboy/zkrp/util/byteconversion"
+	"github.com/frenkyharry/zkrp/util/bn"
+	"github.com/frenkyharry/zkrp/util/byteconversion"
 )
 
 var (

@@ -1,4 +1,4 @@
-module github.com/robotboy/zkrp
+module github.com/frenkyharry/zkrp
 
 go 1.17
 
